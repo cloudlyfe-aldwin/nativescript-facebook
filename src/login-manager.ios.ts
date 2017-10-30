@@ -9,7 +9,7 @@ declare class UIApplication { }
 declare let FBSDKLoginButton: any;
 declare class NSDictionary { }
 
-const FB_LOGIN_BEHAVIOUR = 2;
+const FB_LOGIN_BEHAVIOUR = 1;
 const LOGIN_PERMISSIONS = ["public_profile", "email"];
 
 // TODO: add getter and setter
